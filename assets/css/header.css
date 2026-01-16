@@ -386,7 +386,7 @@ box-shadow: none;
 .responsive-navbar .offcanvas-body .accordion .accordion-item .accordion-button.without-icon:before {
 display: none;
 }
-.responsive-navbar .offcanvas-body .accordion .accordion-item .accordion-button:before {
+/* .responsive-navbar .offcanvas-body .accordion .accordion-item .accordion-button:before {
 transform: translateY(-50%);
 position: absolute;
 margin-top: -1px;
@@ -398,7 +398,7 @@ font-family: 'boxicons';
 font-size: 14px;
 font-weight: 400;
 color: var(--blackColor);
-}
+} */
 .responsive-navbar .offcanvas-body .accordion .accordion-item .accordion-button:after {
 display: none;
 }
