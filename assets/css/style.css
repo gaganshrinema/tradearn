@@ -5523,22 +5523,22 @@ Go Top CSS
 
 .preloader-dot:nth-child(1) {
   animation-delay: 0.1s;
-  background: #e8e7e8;
+  background: var(--mainColor);
 }
 
 .preloader-dot:nth-child(2) {
   animation-delay: 0.2s;
-  background: #d9d0d2;
+  background: var(--mainColor);
 }
 
 .preloader-dot:nth-child(3) {
   animation-delay: 0.3s;
-  background: #2eca7f;
+  background: var(--mainColor);
 }
 
 .preloader-dot:nth-child(4) {
   animation-delay: 0.4s;
-  background: #2eca7f;
+  background: var(--mainColor);
 }
 
 .preloader-dot:nth-child(5) {
