@@ -5692,6 +5692,26 @@ ol.wp-block-rss {
     }
 }
 
+.qrSection {
+    display: block;
+}
+
+.qrCode {
+    display: block;
+    position: fixed;
+    z-index: 999999;
+    bottom: -230px;
+    width: 100%;
+    text-align: center;
+    transition: all 0.5s ease-in-out;
+}
+
+.qrCode:hover,
+.qrSection:hover {
+    bottom: 10px;
+    transition: all 0.5s ease-in-out;
+}
+
 .th-header {
     position: relative;
     z-index: 41
